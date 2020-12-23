@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Units>
+    <Row>
+      <Type>UNIT_TB_SCHWERER_GUSTAV</Type>
+      <Description>TXT_KEY_UNIT_TB_SCHWERER_GUSTAV</Description>
+      <Civilopedia>TXT_KEY_CIV5_TB_SCHWERER_GUSTAV_TEXT</Civilopedia>
+      <Strategy>TXT_KEY_UNIT_TB_SCHWERER_GUSTAV_STRATEGY</Strategy>
+      <Help>TXT_KEY_UNIT_HELP_TB_SCHWERER_GUSTAV</Help>
+	  <Combat>30</Combat>
+	  <RangedCombat>50</RangedCombat>
+	  <Cost>450</Cost>
+	  <Moves>1</Moves>
+	  <Immobile>0</Immobile>
+	  <Range>4</Range>
+	  <BaseSightRange>3</BaseSightRange>
+	  <Class>UNITCLASS_ARTILLERY</Class>
+	  <CombatClass>UNITCOMBAT_SIEGE</CombatClass>
+	  <Domain>DOMAIN_LAND</Domain>
+	  <CivilianAttackPriority></CivilianAttackPriority>
+	  <DefaultUnitAI>UNITAI_CITY_BOMBARD</DefaultUnitAI>
+	  <MilitarySupport>1</MilitarySupport>
+	  <MilitaryProduction>1</MilitaryProduction>
+	  <Pillage>0</Pillage>
+	  <IgnoreBuildingDefense>1</IgnoreBuildingDefense>
+	  <Mechanized>1</Mechanized>
+	  <PrereqTech>TECH_DYNAMITE</PrereqTech>
+	  <GoodyHutUpgradeUnitClass>UNITCLASS_ROCKET_ARTILLERY</GoodyHutUpgradeUnitClass>
+	  <AdvancedStartCost>40</AdvancedStartCost>
+	  <MinAreaSize>-1</MinAreaSize>
+	  <NukeDamageLevel>-1</NukeDamageLevel>
+	  <CombatLimit>100</CombatLimit>
+	  <RangeAttackOnlyInDomain>0</RangeAttackOnlyInDomain>
+	  <XPValueAttack>8</XPValueAttack>
+	  <XPValueDefense>2</XPValueDefense>
+	  <ExtraMaintenanceCost>2</ExtraMaintenanceCost>
+	  <UnitArtInfo>ART_DEF_UNIT_ARTILLERY</UnitArtInfo>
+	  <ShowInPedia>1</ShowInPedia>
+	  <MoveRate>ARTILLERY</MoveRate>
+	  <UnitFlagIconOffset>56</UnitFlagIconOffset>
+	  <PortraitIndex>2</PortraitIndex>
+	  <IconAtlas>TB_BROOKS_EMPIRE_ATLAS</IconAtlas>
+    </Row>
+  </Units>
+
+	<Unit_AITypes>
+		<Row>
+			<UnitType>UNIT_TB_SCHWERER_GUSTAV</UnitType>
+			<UnitAIType>UNITAI_CITY_BOMBARD</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_TB_SCHWERER_GUSTAV</UnitType>
+			<UnitAIType>UNITAI_RANGED</UnitAIType>
+		</Row>
+	</Unit_AITypes>
+	<Unit_ClassUpgrades>
+		<Row>
+			<UnitType>UNIT_TB_SCHWERER_GUSTAV</UnitType>
+			<UnitClassType>UNITCLASS_ROCKET_ARTILLERY</UnitClassType>
+		</Row>
+	</Unit_ClassUpgrades>
+	<Unit_FreePromotions>
+		<Row>
+			<UnitType>UNIT_TB_SCHWERER_GUSTAV</UnitType>
+			<PromotionType>PROMOTION_INDIRECT_FIRE</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_TB_SCHWERER_GUSTAV</UnitType>
+			<PromotionType>PROMOTION_ONLY_DEFENSIVE</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_TB_SCHWERER_GUSTAV</UnitType>
+			<PromotionType>PROMOTION_CITY_SIEGE</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_TB_SCHWERER_GUSTAV</UnitType>
+			<PromotionType>PROMOTION_NO_DEFENSIVE_BONUSES</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_TB_SCHWERER_GUSTAV</UnitType>
+			<PromotionType>PROMOTION_ONLY_ATTACKS_CITIES</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_TB_SCHWERER_GUSTAV</UnitType>
+			<PromotionType>PROMOTION_MUST_SET_UP</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_TB_SCHWERER_GUSTAV</UnitType>
+			<PromotionType>PROMOTION_VOLLEY</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_TB_SCHWERER_GUSTAV</UnitType>
+			<PromotionType>PROMOTION_SIGHT_PENALTY</PromotionType>
+		</Row>
+	</Unit_FreePromotions>
+	<Unit_Flavors>
+		<Row>
+			<UnitType>UNIT_TB_SCHWERER_GUSTAV</UnitType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_TB_SCHWERER_GUSTAV</UnitType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_TB_SCHWERER_GUSTAV</UnitType>
+			<FlavorType>FLAVOR_RANGED</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+	</Unit_Flavors>
+	<UnitGameplay2DScripts>
+		<Row>
+			<UnitType>UNIT_TB_SCHWERER_GUSTAV</UnitType>
+			<SelectionSound>AS2D_SELECT_ARTILLERY</SelectionSound>
+			<FirstSelectionSound>AS2D_BIRTH_ARTILLERY</FirstSelectionSound>
+		</Row>
+	</UnitGameplay2DScripts>
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_UNIT_TB_SCHWERER_GUSTAV">
+      <Text>Schwerer Gustav</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_TB_SCHWERER_GUSTAV_TEXT">
+      <Text>Schwerer Gustav was the name of a German 80 cm (31.5 in.) railway gun. It was developed in the late 1930s by Krupp as siege artillery for the explicit purpose of destroying the main forts of the French Maginot Line, the strongest fortifications then in existence. The fully assembled gun weighed nearly 1,350 tonnes, and could fire shells weighing seven tonnes to a range of 47 kilometres (29 mi).</Text>
+    </Row>
+    <Row Tag="TXT_KEY_UNIT_TB_SCHWERER_GUSTAV_STRATEGY">
+      <Text>The Schwerer Gustav is the Brooks unique unit. Armed and ready for a long range artillery bombardement, the Heavy Gustav recieves additional range when produced. Movement speed it reduced because of sheer size.</Text>
+    </Row>
+	  <Row Tag="TXT_KEY_UNIT_HELP_TB_SCHWERER_GUSTAV">
+		  <Text>Only the Brooks Empire may build this unit. Recieves ranged promotion and additional ranged damage.</Text>
+	  </Row>
+  </Language_en_US>
+</GameData>

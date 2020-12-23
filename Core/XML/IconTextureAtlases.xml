@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/15/2018 9:57:35 PM -->
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>TB_BROOKS_EMPIRE_ATLAS</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>BrooksEmpireIconAtlas256.dds</Filename>
+			<IconsPerRow>4</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>TB_BROOKS_EMPIRE_ATLAS</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>BrooksEmpireIconAtlas128.dds</Filename>
+			<IconsPerRow>4</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>TB_BROOKS_EMPIRE_ATLAS</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>BrooksEmpireIconAtlas80.dds</Filename>
+			<IconsPerRow>4</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>TB_BROOKS_EMPIRE_ATLAS</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>BrooksEmpireIconAtlas64.dds</Filename>
+			<IconsPerRow>4</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>TB_BROOKS_EMPIRE_ATLAS</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>BrooksEmpireIconAtlas45.dds</Filename>
+			<IconsPerRow>4</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>TB_BROOKS_EMPIRE_ATLAS</Atlas>
+			<IconSize>32</IconSize>
+			<Filename>BrooksEmpireIconAtlas32.dds</Filename>
+			<IconsPerRow>4</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>TB_HEAVY_GUSTAV_UNIT_FLAG</Atlas>
+			<IconSize>32</IconSize>
+			<Filename>HeavyGustavUnitFlag32.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+</GameData>

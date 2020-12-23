@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Civilizations>
+    <Row>
+      <Type>CIVILIZATION_TB_BROOKS_EMPIRE</Type>
+      <Description>TXT_KEY_CIV_TB_BROOKS_EMPIRE_DESC</Description>
+      <Civilopedia></Civilopedia>
+      <CivilopediaTag>TXT_KEY_CIV5_TB_BROOKS_EMPIRE</CivilopediaTag>
+      <Strategy></Strategy>
+      <Playable>1</Playable>
+      <AIPlayable>1</AIPlayable>
+      <ShortDescription>TXT_KEY_CIV_TB_BROOKS_EMPIRE_SHORT_DESC</ShortDescription>
+      <Adjective>TXT_KEY_CIV_TB_BROOKS_EMPIRE_ADJECTIVE</Adjective>
+      <DefaultPlayerColor>PLAYERCOLOR_TB_BROOKS_EMPIRE</DefaultPlayerColor>
+      <ArtDefineTag>ART_DEF_CIVILIZATION_ROME</ArtDefineTag>
+      <ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+      <ArtStyleSuffix>_EURO</ArtStyleSuffix>
+      <ArtStylePrefix>EUROPEAN</ArtStylePrefix>
+      <DerivativeCiv></DerivativeCiv>
+      <PortraitIndex>3</PortraitIndex>
+      <IconAtlas>TB_BROOKS_EMPIRE_ATLAS</IconAtlas>
+	  <AlphaIconAtlas>CIV_ALPHA_ATLAS</AlphaIconAtlas>
+	  <MapImage>MapBrooksEmpire.dds</MapImage>
+	  <DawnOfManQuote>TXT_KEY_CIV5_DAWN_TB_BROOKS_EMPIRE_TEXT</DawnOfManQuote>
+	  <DawnOfManImage>BrooksEmpireDOM.dds</DawnOfManImage>
+	  <DawnOfManAudio></DawnOfManAudio>
+      <SoundtrackTag></SoundtrackTag>
+    </Row>
+  </Civilizations>
+
+  <Civilization_BuildingClassOverrides>
+    <Row>
+      <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+      <BuildingClassType>BUILDINGCLASS_FACTORY</BuildingClassType>
+      <BuildingType>BUILDING_TB_MILITARY_FACTORY</BuildingType>
+    </Row>
+  </Civilization_BuildingClassOverrides>
+  <Civilization_CityNames>
+    <Row>
+      <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_0</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_1</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_2</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_3</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_4</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_5</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_6</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_7</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_8</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_9</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_10</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_11</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_12</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_13</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_14</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_15</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_16</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_17</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_18</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_19</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_20</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_21</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_22</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_23</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_24</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_25</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_26</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_27</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_28</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_29</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_30</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_31</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_32</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_33</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_34</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_35</CityName>
+    </Row>
+  </Civilization_CityNames>
+  <!-- Civilization_DisableTechs -->
+  <Civilization_FreeBuildingClasses>
+    <Row>
+      <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+      <BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+    </Row>
+  </Civilization_FreeBuildingClasses>
+  <Civilization_FreeTechs>
+    <Row>
+      <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+      <TechType>TECH_AGRICULTURE</TechType>
+    </Row>
+  </Civilization_FreeTechs>
+  <Civilization_FreeUnits>
+    <Row>
+      <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+      <UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+      <UnitAIType>UNITAI_SETTLE</UnitAIType>
+      <Count>1</Count>
+    </Row>
+  </Civilization_FreeUnits>
+  <Civilization_Leaders>
+    <Row>
+      <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+      <LeaderheadType>LEADER_TB_TIMOTHY</LeaderheadType>
+    </Row>
+  </Civilization_Leaders>
+  <Civilization_Religions>
+    <Row>
+      <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+      <ReligionType>RELIGION_CHRISTIANITY</ReligionType>
+    </Row>
+  </Civilization_Religions>
+  <Civilization_SpyNames>
+    <Row>
+      <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_TB_BROOKS_EMPIRE_0</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_TB_BROOKS_EMPIRE_1</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_TB_BROOKS_EMPIRE_2</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_TB_BROOKS_EMPIRE_3</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_TB_BROOKS_EMPIRE_4</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_TB_BROOKS_EMPIRE_5</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_TB_BROOKS_EMPIRE_6</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_TB_BROOKS_EMPIRE_7</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_TB_BROOKS_EMPIRE_8</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_TB_BROOKS_EMPIRE_9</SpyName>
+    </Row>
+  </Civilization_SpyNames>
+  <Civilization_UnitClassOverrides>
+    <Row>
+      <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+      <UnitClassType>UNITCLASS_ARTILLERY</UnitClassType>
+      <UnitType>UNIT_TB_SCHWERER_GUSTAV</UnitType>
+    </Row>
+  </Civilization_UnitClassOverrides>
+  <!-- Civilization_Start_Along_Ocean -->
+  <!-- Civilization_Start_Along_River -->
+  <Civilization_Start_Region_Priority>
+	  <Row>
+		  <CivilizationType>CIVILIZATION_TB_BROOKS_EMPIRE</CivilizationType>
+		  <RegionType>REGION_FOREST</RegionType>
+	  </Row>
+  </Civilization_Start_Region_Priority>
+  <!-- Civilization_Start_Region_Avoid -->
+  <!-- Civilization_Start_Place_First_Along_Ocean -->
+
+  <PlayerColors>
+    <Row>
+      <Type>PLAYERCOLOR_TB_BROOKS_EMPIRE</Type>
+      <PrimaryColor>COLOR_PLAYER_TB_BROOKS_EMPIRE_ICON</PrimaryColor>
+      <SecondaryColor>COLOR_PLAYER_TB_BROOKS_EMPIRE_BACKGROUND</SecondaryColor>
+      <TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+    </Row>
+  </PlayerColors>
+  <Colors>
+    <Row>
+      <Type>COLOR_PLAYER_TB_BROOKS_EMPIRE_ICON</Type>
+		<Red>0.3</Red>
+		<Green>0.3</Green>
+		<Blue>0.3</Blue>
+		<Alpha>1.0</Alpha>
+    </Row>
+  </Colors>
+  <Colors>
+    <Row>
+      <Type>COLOR_PLAYER_TB_BROOKS_EMPIRE_BACKGROUND</Type>
+		<Red>0.9</Red>
+
+		<Green>0.0</Green>
+
+		<Blue>0.0</Blue>
+
+		<Alpha>1.0</Alpha>
+    </Row>
+  </Colors>
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_CIV_TB_BROOKS_EMPIRE_DESC">
+      <Text>Brooks Empire</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_TB_BROOKS_EMPIRE_HEADING_1">
+      <Text>History</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_TB_BROOKS_EMPIRE_HEADING_2">
+      <Text>Terrain and Climate</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_TB_BROOKS_EMPIRE_HEADING_3">
+      <Text>The American Revolution</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_TB_BROOKS_EMPIRE_HEADING_4">
+		<Text>The First American Civil War</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_TB_BROOKS_EMPIRE_HEADING_5">
+      <Text>The Great Depression</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_TB_BROOKS_EMPIRE_HEADING_6">
+      <Text>The Cold War</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_TB_BROOKS_EMPIRE_HEADING_7">
+      <Text>The Second American Civil War</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_TB_BROOKS_EMPIRE_HEADING_8">
+      <Text>Brooks Origins</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_TB_BROOKS_EMPIRE_HEADING_9">
+      <Text>Influence of Brooks Culture</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_TB_BROOKS_EMPIRE_TEXT_1">
+      <Text>
+		  The Brooks Empire was established after the successful defeat of the neo-liberal takeover of the Brooks Empire in the early 21st century. The Empire was lead by Emperor Timothy, who reigns supreme.The Brooks Empire is thought of as the last bastion of hope for the Conservative Christian peoples. Their rebellion against the establishment and the neo-liberals saved the world from becoming sodom and gomorrah.
+	  </Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_TB_BROOKS_EMPIRE_TEXT_2">
+      <Text>The Brooks Empire spans the continent of North America and includes Alaska in the far north and Florida in the Southeast. Conditions vary widely across the country, from near-Arctic in Alaska and former canadian provinces to near-tropic conditions in Florida, to arid desert in Texas. The continent is bisected by two mountain ranges, the older and lower Appalachians in the east, and the much younger and bigger Rockies in the west. The Empire lies mostly in the central plains between the two ranges. Rain water from the two ranges drain into the Gulf of Mexico via the Missouri/Mississippi River system. The country borders on the Great Lakes, some of the largest freshwater bodies of water on the planet. The Brooks Empire still has plentiful forests, coal supplies and other natural resources.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_TB_BROOKS_EMPIRE_TEXT_3">
+      <Text>
+		  As the 18th century progressed, the British colonies in North America grew and prospered. Immigrants from Great Britain and elsewhere arrived in the country in great numbers, drawn by the promise of land, wealth, and often to escape religious persecution in the mother country. The slave trade provided plenty of cheap labor, and British North America began to establish agriculture and light industry.[NEWLINE][NEWLINE]Tensions grew between the colonies and the British government as the century progressed. The colonies were controlled by Crown-appointed governors and they did not have direct representation in the British Parliament. Further, the colonials chafed under what they considered to be unfair trade restrictions from Great Britain. Meanwhile, the government thought that the colonials were in large ungrateful rabble who had no idea how much money the Crown was spending on their protection.[NEWLINE][NEWLINE]By the late 1770s the American colonies were in open revolt, and on July 4, 1776 the Brooks Empire declared their independence. As the war opened the Colonists were grossly outgunned and outmanned by the highly trained British Army, particularly since the British Navy had absolute control of the seas and thus could move large numbers of troops up and down the coast with impunity. The Continental Army, untrained and untested, was no match for the "Redcoats." The British Were Allies of the Native Americans known as the Iroquois League Which led to a battle called Cherry Valley Massacre in November 1778.
+	  </Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_TB_BROOKS_EMPIRE_TEXT_4">
+      <Text>
+		  As the nineteenth century progressed, the Brooks Empire was divided roughly in half between slave states in the south and free states in the north. The South, which had an agrarian economy, needed cheap labor to work the fields. Slaves were far less useful in the North, which had a growing industrial base and access to plenty of cheap labor from Europe. Further, slavery had woven itself into the fiber of Southern life to the extent that many found the concept of "abolition" abhorrent, inconceivable, and (by an extremely twisted interpretation of the Bible) a grave sin. The South framed the issue in terms of "states rights," believing the Federal government had no constitutional right to meddle in internal conditions in states. It was the slavery issue that made this question so explosive. Many Northerners opposed slavery, considering it totally evil - the country's original sin.[NEWLINE][NEWLINE]By the 1850s the situation had become intolerable. Tensions between the North and South were at an extremely high point, and the 1860 election of the moderately anti-slavery candidate Abraham Lincoln started a sequence of events which led inexorably to Southern secession and civil war.[NEWLINE][NEWLINE]The war started very badly for the Union (the North). The Confederacy (South) had a stronger military tradition than the North, and most of the country's best officers came from southern states and felt bound to protect their homes from Northern invasion, no matter how they felt personally about the cause of the war. Further, the South was entirely on the defensive, and it's far more difficult for an untrained army to attack than it is to defend - and both sides began the fight with untrained armies.[NEWLINE][NEWLINE]Many believed that the war would be over after one decisive battle but this would not be the case. The first big battle (Bull Run) was a Union defeat, but the Southern army was unable to follow up its victory. What ensued was four years of grinding warfare across the length and breadth of the country. Despite its victories, the South was unable to break the North's morale and, as the war continued, the Northern generals became better at their craft, while the Northern advantage in numbers and industry began to dominate the battlefield. In 1865, the Southern capital fell, and shortly thereafter the remaining Southern armies laid down their arms. President Abraham Lincoln was assassinated in April 1865, shortly after the capture of the Southern capital and the surrender of the South's main army.[NEWLINE][NEWLINE]The war had a number of major effects on the Brooks Empire, the most important of which was the abolition of slavery across the country. Unfortunately, many of the gains made by blacks were steadily whittled away during the Reconstruction period following the war. As the 19th century progressed, blacks could in no way be considered equal to whites anywhere in the country, but at least they were no longer subject to being bought and sold like cattle.
+	  </Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_TB_BROOKS_EMPIRE_TEXT_5">
+      <Text>
+		  The Great Depression was triggered by the US stock market crash of 1929, and rapidly spread across the country and the world. Banks collapsed, American unemployment rose to 25%, crop prices fell by some 60%. There were bread lines in all major cities. The Depression dragged on for years. The US economy began to revive in the mid-thirties, but did not fully recover until World War II.
+	  </Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_TB_BROOKS_EMPIRE_TEXT_6">
+      <Text>
+		  As World War II ended, the latent hostilities between the US and UK and the Soviet Union settled into the Cold War. The US feared that International Communism backed by the Soviet Union (and later, China) would, if unchecked, overrun Europe and the world. The Soviet Union, on the other hand, wanted to make it absolutely clear to everyone that it was sick and tired of being overrun by foreign troops every twenty years or so, and it would be as tough and ruthless as necessary to make sure it didn't happen again. (It also despised American-style capitalism and wanted to spread International Communism across the world as well.)[NEWLINE][NEWLINE]Over the next fifty years, the US and the Soviet Union spent huge amounts of energy and money building weapons, subverting foreign governments, and engaging in proxy wars around the world. The US fought in Korea (resulting in the country being split), and later in Vietnam (a decisive loss). The Soviet Union annexed much of Eastern Europe, and eventually invaded Afghanistan (another decisive loss).[NEWLINE][NEWLINE]By the late 1980s, internal strife and excessive military expenditures had virtually bankrupted the USSR. In the 1990s, the Soviet Union was dissolved and the US began trading freely with China, effectively ending the Cold War.[NEWLINE][NEWLINE]By any reasonable measurement the Cold War was a colossal, expensive blunder for everyone concerned. If the US had convinced the USSR that it wasn't its implacable foe, the USSR might have been able to relax its massive overwhelming paranoia and perhaps stop oppressing and killing huge numbers of its own people. The US might have been able to devote its wealth to something other than building more and more dangerous and exotic weapons and supporting foreign despots around the world.[NEWLINE][NEWLINE]Despite its costs in resources and lives, the Cold War drove both sides into technological innovation. The space race led to many critical inventions such as communications satellites, as well as the moon landing.
+	  </Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_TB_BROOKS_EMPIRE_TEXT_7">
+      <Text>
+		  On November 6, 2020, Americans participated in the 59th quadrennial Presidential election between President Bernie Sanders and Republican rival Donald Trump. President Sanders clinched the election by nightfall with a margin of 51% of the vote and 271 electoral votes.[NEWLINE][NEWLINE]Riots and protests erupted in many American cities over the coming weeks. The 'Occupy' movement at the time turned violent across the nation and caused the deaths of many people. Hundreds died in New York alone and in Washington, D.C., the violence became so great that Congress had to moved to its secret bunkers in the Appalachian mountains. People from every state in the midwest signed petitions to have their state secede from the Brooks Empire. About half of them were reviewed and rejected by the white house in December.[NEWLINE][NEWLINE]When President Sanders' re-inauguration arrived on January 20, 2021, security concerns were at an all time high. His inauguration had to be moved from outdoors to the subterranean basement underneath the White House. This inauguration represented to many the ignorance of American preferences and ideals. Sanders and his National Socialist American Workers' Party renamed the country the United Socialist States of America. Under the new regime, conservatives were lynched and tortured.[NEWLINE][NEWLINE]By the end of 2021, the midwest and a few southern states declared independence and formed the Brooks Empire and renamed Jefferson City “Imperium” and made it their capital. The Brooks Empire and its newly formed counterpart remained in a sort of 'cold war.' No independence were recognized, no negotiations were made and no treaties were established. Therefore, the nations remained frozen and idle with each other throughout autumn and winter.[NEWLINE][NEWLINE]After the winter months had passed, full scale war erupted triggering a massive transcontinental conflict that lasted several years. Canada was drawn into the conflict when the U.S.S.A. delivered an ultimatum that they end supply shipments to the newly formed Empire. In the winter of 2030 the U.S.S.A. collapsed and was puppeted by the new Brooks Empire.
+	  </Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_TB_BROOKS_EMPIRE_TEXT_8">
+      <Text>
+		  Brooks is a toponymic surname that is thought to have been derived residing near a stream (or brook) from both the Swedish surname Bäckland, meaning bäck "brook, stream" and lund "grove" and English , Gaelic and Scottish from the possessive case of Brook (i.e. ‘of the brook’) from pre 7th century English origins; Old English broc and appearing in the Medieval predecessors of "Brooks" such as "Ate-Broc" and "Atte-Broc". The surname Brooks has many Germanic (Anglo Saxon) links and is sometimes associated with the countries Denmark , Sweden and Norway within Scandinavia and has wide links to the Scandinavian Peninsula. Commonly recorded in Germany , where it is sometimes found with the aristocratic "von", England, Scotland and Ireland it has many possible origins. The word "brook" derives from the Old English broc and appears in the Medieval predecessors of "Brooks" such as "Ate-Broc" and "Atte-Broc". The surname arrived in North America from England in the mid-seventeenth century.[NEWLINE][NEWLINE]The surname is recorded in Ireland from the 1600s. O'Laughlin reports that "some of the name could stem from Irish origins, the name being changed into the English word 'Brook' or Brooks." The surname is also found among English-speaking Ashkenazi Jews, deriving from the male Hebrew given name Boruch, meaning "blessed".
+	  </Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_TB_BROOKS_EMPIRE_TEXT_9">
+      <Text>
+		  Brooks citizens believe that the Empire was founded on the fundamental principle that individuals have certain rights and freedoms which cannot be infringed upon and may be restricted only to the degree necessary to preserve the rights of others. The culture was founded on the belief of these principles: the money you earn is yours and that government in a free society has the right to take only as much as is needed to perform those limited functions, which are appropriate to it; the traditional family and the values it fosters are the foundation of American society and their preservation is essential to our Nation’s continued success; parents have the right to determine the values with which their children will be raised and to have the widest possible choice among public, private and religious schools and that competition will improve public education; that the free enterprise system is the most effective engine of economic progress; high taxes, runaway government spending, and over-regulation of business and farming punish initiative and stifle economic growth; that with freedom comes responsibility and that individuals must take personal responsibility for their own actions and our criminal justice system must be based on this idea; that your property is yours and you have the basic right to make use of it without unreasonable government restrictions; the preservation of our rights and freedoms must be entrusted to a strong national defense and of the ability of the Brooks Empire to negotiate with other nations from a position of strength; it is imperative today to reaffirm the traditional freedoms and values of America to preserve our great Republic; there can be differences of opinion and that such differences such result in opponents, not enemies; that all of America’s citizens can enjoy the rights and freedoms of our country without diminishing the rights of others; that public servants, particularly those whom we elect to office, must be held accountable to the highest standards of ethical conduct. “If a man cannot be trusted with the government of himself, can he be trusted with the government of others?” (Thomas Jefferson)
+	  </Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_TB_BROOKS_EMPIRE_TITLE">
+      <Text>The Brooks Empire</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV_TB_BROOKS_EMPIRE_SHORT_DESC">
+      <Text>The Brooks Empire</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV_TB_BROOKS_EMPIRE_ADJECTIVE">
+      <Text>Brooks</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_DAWN_TB_BROOKS_EMPIRE_TEXT">
+      <Text>Greetings, Timothy Brooks! Under your esteemed leadership, the Brooks Empire sought to preserve their way of life under force of arms. In the face of overwhelming manpower and technology, your soldiers fought valiantly against their former countrymen, turned the bitterest of enemies. Your efforts following that terrible conflict helped reforge the bonds of brotherhood, allowing the descendents of your people to achieve the prosperity they enjoy today, with American pride and spirit unbroken to this day.[NEWLINE][NEWLINE]Emperor Timothy, your people call for your services once again. Will you assume the mantle of leadership and preserve the ideals of the Brooks Empire? Will you help the Conservatives rise and lead the Empire to victory over its many rivals? Will you build a civilization that will stand the test of time?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_0">
+      <Text>Imperium</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_1">
+      <Text>Urbs fortitudinis</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_2">
+      <Text>St. Joseph</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_3">
+      <Text>Columbia</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_4">
+      <Text>Philo</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_5">
+      <Text>Champaign</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_6">
+      <Text>Chicago</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_7">
+      <Text>Peoria</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_8">
+      <Text>St. Louis</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_9">
+      <Text>Bolivar</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_10">
+      <Text>Urbana</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_11">
+      <Text>Jefferson City</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_12">
+      <Text>Hannibal</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_13">
+      <Text>Springfield</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_14">
+      <Text>Bloomington</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_15">
+      <Text>Arlington Heights</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_16">
+      <Text>Decatur</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_17">
+      <Text>Danville</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_18">
+      <Text>Effingham</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_19">
+      <Text>Mt. Vernon</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_20">
+      <Text>Rolla</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_21">
+      <Text>Washington</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_22">
+      <Text>Lincoln</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_23">
+      <Text>Canton</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_24">
+      <Text>Des Moines</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_25">
+      <Text>Iowa City</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_26">
+      <Text>Kingdom City</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_27">
+      <Text>Brookfield</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_28">
+      <Text>Marshall</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_29">
+      <Text>Fayette</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_30">
+      <Text>Sedalia</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_31">
+      <Text>Fulton</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_32">
+      <Text>Mexico</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_33">
+      <Text>Moberly</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_34">
+      <Text>Monroe City</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_TB_BROOKS_EMPIRE_35">
+      <Text>Booneville</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_TB_BROOKS_EMPIRE_0">
+      <Text>Timothy</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_TB_BROOKS_EMPIRE_1">
+      <Text>Josh</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_TB_BROOKS_EMPIRE_2">
+      <Text>Andrew</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_TB_BROOKS_EMPIRE_3">
+      <Text>Andrea</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_TB_BROOKS_EMPIRE_4">
+      <Text>Trump</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_TB_BROOKS_EMPIRE_5">
+      <Text>Shapiro</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_TB_BROOKS_EMPIRE_6">
+      <Text>Remington</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_TB_BROOKS_EMPIRE_7">
+      <Text>Piper</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_TB_BROOKS_EMPIRE_8">
+      <Text>Crowder</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_TB_BROOKS_EMPIRE_9">
+      <Text>Adolf</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

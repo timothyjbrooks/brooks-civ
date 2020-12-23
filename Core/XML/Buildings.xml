@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_TB_MILITARY_FACTORY</Type>
+			<Description>TXT_KEY_BUILDING_TB_MILITARY_FACTORY</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_TB_MILITARY_FACTORY_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_TB_MILITARY_FACTORY_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_TB_MILITARY_FACTORY_HELP</Help>
+			<GoldMaintenance>3</GoldMaintenance>
+			<MutuallyExclusiveGroup>-1</MutuallyExclusiveGroup>
+			<NeverCapture>true</NeverCapture>
+			<Cost>390</Cost>
+			<NumCityCostMod>10</NumCityCostMod>
+			<HurryCostModifier>25</HurryCostModifier>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<GreatGeneralRateModifier>1</GreatGeneralRateModifier>
+			<UnitUpgradeCostMod>-1</UnitUpgradeCostMod>
+			<MilitaryProductionModifier>5</MilitaryProductionModifier>
+			<XBuiltTriggersIdeologyChoice>2</XBuiltTriggersIdeologyChoice>
+			<BuildingClass>BUILDINGCLASS_FACTORY</BuildingClass>
+			<ArtDefineTag>ART_DEF_BUILDING_TB_MILITARY_FACTORY</ArtDefineTag>
+			<PrereqTech>TECH_INDUSTRIALIZATION</PrereqTech>
+			<SpecialistType>SPECIALIST_ENGINEER</SpecialistType>
+			<SpecialistCount>3</SpecialistCount>
+			<DisplayPosition>0</DisplayPosition>
+			<PortraitIndex>1</PortraitIndex>
+			<IconAtlas>TB_BROOKS_EMPIRE_ATLAS</IconAtlas>
+		</Row>
+	</Buildings>
+
+	<!-- Building_AreaYieldModifiers -->
+	<!-- Building_BuildingClassHappiness -->
+	<!-- Building_BuildingClassYieldChanges -->
+	<!-- Building_ClassesNeededInCity -->
+	<!-- Building_FreeUnits -->
+	<Building_DomainFreeExperiences>
+		<Row>
+			<BuildingType>BUILDING_TB_MILITARY_FACTORY</BuildingType>
+			<DomainType>DOMAIN_LAND</DomainType>
+			<Experience>20</Experience>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_TB_MILITARY_FACTORY</BuildingType>
+			<DomainType>DOMAIN_SEA</DomainType>
+			<Experience>20</Experience>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_TB_MILITARY_FACTORY</BuildingType>
+			<DomainType>DOMAIN_AIR</DomainType>
+			<Experience>20</Experience>
+		</Row>
+	</Building_DomainFreeExperiences>
+	<!-- Building_DomainFreeExperiencePerGreatWork -->
+	<!-- Building_DomainProductionModifiers -->
+	<!-- Building_FreeSpecialistCounts -->
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_TB_MILITARY_FACTORY</BuildingType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_TB_MILITARY_FACTORY</BuildingType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>100</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_TB_MILITARY_FACTORY</BuildingType>
+			<FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+	</Building_Flavors>
+	<!-- Building_GlobalYieldModifiers -->
+	<!-- Building_HurryModifiers -->
+	<!-- Building_LocalResourceAnds -->
+	<!-- Building_LocalResourceOrs -->
+	<!-- Building_LockedBuildingClasses -->
+	<!-- Building_PrereqBuildingClasses -->
+	<!-- Building_ResourceQuantity -->
+	<Building_ResourceQuantityRequirements>
+		<Row>
+			<BuildingType>BUILDING_TB_MILITARY_FACTORY</BuildingType>
+			<ResourceType>RESOURCE_COAL</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+	</Building_ResourceQuantityRequirements>
+	<!-- Building_ResourceYieldModifiers -->
+	<!-- Building_ResourceCultureChanges -->
+	<!-- Building_ResourceFaithChanges -->
+	<!-- Building_RiverPlotYieldChanges -->
+	<!-- Building_SeaPlotYieldChanges -->
+	<!-- Building_LakePlotYieldChanges -->
+	<!-- Building_SeaResourceYieldChanges -->
+	<!-- Building_ResourceYieldChanges -->
+	<!-- Building_FeatureYieldChanges -->
+	<!-- Building_TerrainYieldChanges -->
+	<!-- Building_SpecialistYieldChanges -->
+	<!-- Building_UnitCombatFreeExperiences -->
+	<Building_UnitCombatProductionModifiers>
+		<Row>
+			<BuildingType>BUILDING_TB_MILITARY_FACTORY</BuildingType>
+			<UnitCombatType>UNITCOMBAT_ARMOR</UnitCombatType>
+			<Modifier>25</Modifier>
+		</Row>
+	</Building_UnitCombatProductionModifiers>
+	<!-- Building_TechAndPrereqs -->
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_TB_MILITARY_FACTORY</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>4</Yield>
+		</Row>
+	</Building_YieldChanges>
+	<!-- Building_YieldChangesPerPop -->
+	<!-- Building_YieldChangesPerReligion -->
+	<!-- Building_TechEnhancedYieldChanges -->
+	<Building_YieldModifiers>
+		<Row>
+			<BuildingType>BUILDING_TB_MILITARY_FACTORY</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>10</Yield>
+		</Row>
+	</Building_YieldModifiers>
+	<!-- Building_ThemingBonuses -->
+  <Language_en_US>
+	  <Row Tag="TXT_KEY_BUILDING_TB_MILITARY_FACTORY">
+		  <Text>Military Factory</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CIV5_BUILDINGS_TB_MILITARY_FACTORY_TEXT">
+		  <Text>
+			  A military factory is a building which uses Industrial Age techniques to build military equipment, arms and ammunitions, and vehicles. First appearing in a large scale in the 17th and 18th centuries, military factories were more efficient than the small workshops or cottage industries they replaced.
+		  </Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_BUILDING_TB_MILITARY_FACTORY_STRATEGY">
+		  <Text>The Military Factory is an Industrial-era building which greatly increases a city's [ICON_PRODUCTION] Production. The city must already possess a Workshop (or Longhouse). 1 [ICON_RES_COAL] Coal is consumed when a Military Factory is created.</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_BUILDING_TB_MILITARY_FACTORY_HELP">
+		  <Text>+20 XP for all Units and 25% [ICON_PRODUCTION] Production when building Armored Units.</Text>
+	  </Row>
+  </Language_en_US>
+</GameData>

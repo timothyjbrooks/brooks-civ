@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="33a10ef1-7e89-4516-a0d3-6ee4032dfed8" version="1">
+  <Properties>
+    <Name>Brooks Empire</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]Brooks Empire[ENDCOLOR] under Timothy to the game.</Teaser>
+    <Description>Adds the Brooks Empire‎</Description>
+    <Authors>TJ Brooks</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>0</AffectsSavedGames>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="5DBDB6195A26685970EFA48BB4F89A89" import="1">Art/BrooksEmpireDOM.dds</File>
+    <File md5="29C5689EAC178E1259240386D0D6C88D" import="1">Art/BrooksEmpireIconAtlas128.dds</File>
+    <File md5="A20D260B41A584A39527430A001A8F5D" import="1">Art/BrooksEmpireIconAtlas256.dds</File>
+    <File md5="8546F8286489CFA9B17F5FC2D7FE3CBD" import="1">Art/BrooksEmpireIconAtlas32.dds</File>
+    <File md5="E16614AC9584589D1FB32479D40032D7" import="1">Art/BrooksEmpireIconAtlas45.dds</File>
+    <File md5="17F75C5EDAE5954A9A541B82A6C78123" import="1">Art/BrooksEmpireIconAtlas64.dds</File>
+    <File md5="9FAD52D2D83EFA1308BF97A396176637" import="1">Art/BrooksEmpireIconAtlas80.dds</File>
+    <File md5="CE45DBFBC190C1BF36F95084E5E804C0" import="1">Art/HeavyGustavUnitFlag32.dds</File>
+    <File md5="198E2098C0E59EFC4E50D3912D04E8F5" import="1">Art/MapBrooksEmpire.dds</File>
+    <File md5="DA56AF66B12514BE2B9F7871A9BBE82A" import="0">Audio/Timothy_Peace.mp3</File>
+    <File md5="87CECBE9F07B33DCA8F126C9FF885385" import="0">Audio/Timothy_War.mp3</File>
+    <File md5="B06C3C46EDEAEFEEE6C2E60BD0584AA7" import="0">Core/XML/Buildings.xml</File>
+    <File md5="ACAD4D658738B8F1A00D3C77D2472FB0" import="0">Core/XML/CanPurchaseNationStates .xml</File>
+    <File md5="1F7A8D194DB6652A7CC18C2619F864A9" import="0">Core/XML/Civilization.xml</File>
+    <File md5="4EB425A60896C3B75F0C1D38D930DF29" import="0">Core/XML/IconTextureAtlases.xml</File>
+    <File md5="29DBE62D7C851C381212FAC76A3790BB" import="0">Core/XML/Leader.xml</File>
+    <File md5="4F736CCCBAF8A636F7B25009734E105A" import="0">Core/XML/Trait.xml</File>
+    <File md5="E7B699188CFA236BB9FA7E94EC4EC630" import="0">Core/XML/Units.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/XML/Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>Core/XML/CanPurchaseNationStates .xml</UpdateDatabase>
+      <UpdateDatabase>Core/XML/Civilization.xml</UpdateDatabase>
+      <UpdateDatabase>Core/XML/IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>Core/XML/Leader.xml</UpdateDatabase>
+      <UpdateDatabase>Core/XML/Trait.xml</UpdateDatabase>
+      <UpdateDatabase>Core/XML/Units.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>
